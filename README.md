@@ -269,7 +269,7 @@ Si utiliza este trabajo en publicaciones académicas o institucionales, cite de 
   year         = {2026},
   institution  = {Universidad Nacional Autónoma de Honduras},
   note         = {Software y datos de investigación},
-  url          = {https://github.com/[usuario]/[repositorio]},
+  url          = {https://camc30393.github.io/bienestar_simulador_unah/#san},
   orcid        = {0009-0004-7419-0449}
 }
 ```
