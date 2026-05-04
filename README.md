@@ -19,7 +19,6 @@ El análisis incorpora dimensiones multidisciplinares: académica, demográfica,
 ## Tabla de contenidos
  
 - [Objetivo](#objetivo)
-- [Estructura del repositorio](#estructura-del-repositorio)
 - [Datos](#datos)
 - [Metodología](#metodología)
 - [Modelos y métricas](#modelos-y-métricas)
@@ -43,36 +42,6 @@ Desarrollar un sistema analítico que permita:
 4. **Simular** escenarios individuales mediante un simulador predictivo interactivo.
 5. **Segmentar** la población estudiantil en perfiles accionables para intervención institucional.
 6. **Apoyar** la toma de decisiones basadas en evidencia en bienestar universitario.
----
- 
-## Estructura del repositorio
- 
-```
-BienestarUNAH.Cowork/
-│
-├── 00.data.csv                          # Base de datos completa (CSV, 40,994 registros × 309 vars)
-├── 00.data.sav                          # Base de datos en formato SPSS (fuente primaria con etiquetas)
-├── 00.diccionario_variables.xlsx        # Diccionario de variables
-├── 00.EjemploEstiloDashboard.html       # Plantilla de referencia visual del dashboard
-│
-├── modeloBienestarUNAH_didactico.ipynb  # Notebook narrativo paso a paso con visualizaciones
-├── modeloBienestarUNAH_tecnico.ipynb    # Notebook compacto para revisión técnica
-├── modeloBienestarUNAH_ejecutable.ipynb # Pipeline completo end-to-end desde 00.data.sav
-│
-├── dashboard_modelo_bienestar.html      # Dashboard interactivo (8 secciones + simulador)
-├── eda_bienestar_unah.html              # Análisis exploratorio dirigido por targets
-│
-├── diccionario_actualizado.csv          # Diccionario de variables reconstruido desde metadata SPSS
-├── diccionario_final.csv                # Diccionario estructurado por dimensión (309 vars)
-│
-├── ReporteTecnico_BienestarUNAH.docx    # Reporte técnico narrativo (OR, IC95, clusters)
-├── ArticuloIIS_BienestarUNAH_Manzanares_V2.docx  # Artículo científico para revista IIS-UNAH
-│
-├── RETOMAR_AQUI.md                      # Archivo de continuidad y estado del proyecto
-├── README.md                            # Este archivo
-└── LICENSE                              # Licencia MIT
-```
- 
 ---
  
 ## Datos
