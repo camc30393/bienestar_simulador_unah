@@ -278,7 +278,7 @@ Si utiliza este trabajo en publicaciones académicas o institucionales, cite de 
  
 ## Declaración sobre uso de inteligencia artificial
  
-En el desarrollo de los artefactos analíticos, notebooks y dashboard de este proyecto se utilizó asistencia de inteligencia artificial generativa (Claude, Anthropic) como herramienta de apoyo en la redacción de código, revisión metodológica y estructuración de resultados. La interpretación analítica, las decisiones metodológicas y la validación de hallazgos son responsabilidad exclusiva del autor.
+En el desarrollo de los artefactos analíticos, notebooks y dashboard de este proyecto se utilizó asistencia de inteligencia artificial generativa (Deepseek V3) como herramienta de apoyo en la redacción de código, revisión metodológica y estructuración de resultados. La interpretación analítica, las decisiones metodológicas y la validación de hallazgos son responsabilidad exclusiva del autor.
  
 ---
  
