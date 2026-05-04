@@ -258,7 +258,7 @@ Si utiliza este trabajo en publicaciones académicas o institucionales, cite de 
  
 **APA 7.ª edición:**
  
-> Manzanares Cruz, C. A. (2026). *Sistema predictivo de desempeño académico y permanencia estudiantil – UNAH: Modelos ordinales, segmentación y simulador interactivo* [Software y datos de investigación]. Universidad Nacional Autónoma de Honduras. https://github.com/[usuario]/[repositorio]
+> Manzanares Cruz, C. A. (2026). *Sistema predictivo de desempeño académico y permanencia estudiantil – UNAH: Modelos ordinales, segmentación y simulador interactivo* [Software y datos de investigación]. Universidad Nacional Autónoma de Honduras. https://camc30393.github.io/bienestar_simulador_unah/#san 
  
 **BibTeX:**
  
